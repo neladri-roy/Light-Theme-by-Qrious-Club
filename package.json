@@ -1,0 +1,21 @@
+{
+  "name": "q-club-light-theme",
+  "displayName": "q-club-light-theme",
+  "description": "Subtle Light Theme by Qrious.club",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light Theme by Qrious.club",
+        "uiTheme": "vs",
+        "path": "./themes/Light Theme by Qrious.club-color-theme.json"
+      }
+    ]
+  }
+}
